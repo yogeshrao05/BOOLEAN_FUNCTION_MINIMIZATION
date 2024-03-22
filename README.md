@@ -57,6 +57,7 @@ endmodule
 
 **Output:**
 
+
 ![ex-output2](https://github.com/akash7812/BOOLEAN_FUNCTION_MINIMIZATION/assets/146819826/1f65b886-29e5-40e1-a37f-00c204d52827)
 
 **Truth Table**
